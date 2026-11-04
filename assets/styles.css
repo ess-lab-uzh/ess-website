@@ -1,0 +1,352 @@
+/* =====================================================================
+   Earth System Science Lab — site styles.
+   Structure adapted from the Predictive Ecology Group website
+   (github.com/opetchey/predictive-ecology-zurich, MIT licence).
+   ===================================================================== */
+
+/* ---------------------------------------------------------------------
+   Self-hosted Poppins (SIL Open Font License, see fonts/OFL-Poppins.txt).
+   No third-party font service is contacted.
+   --------------------------------------------------------------------- */
+@font-face { font-family: "Poppins"; font-style: normal; font-weight: 300; font-display: swap;
+  src: url("fonts/poppins-latin-300-normal.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: "Poppins"; font-style: normal; font-weight: 400; font-display: swap;
+  src: url("fonts/poppins-latin-400-normal.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: "Poppins"; font-style: italic; font-weight: 400; font-display: swap;
+  src: url("fonts/poppins-latin-400-italic.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: "Poppins"; font-style: normal; font-weight: 500; font-display: swap;
+  src: url("fonts/poppins-latin-500-normal.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: "Poppins"; font-style: normal; font-weight: 600; font-display: swap;
+  src: url("fonts/poppins-latin-600-normal.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+/* Extended Latin (ü, ł, č, ...) */
+@font-face { font-family: "Poppins"; font-style: normal; font-weight: 300; font-display: swap;
+  src: url("fonts/poppins-latin-ext-300-normal.woff2") format("woff2");
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+@font-face { font-family: "Poppins"; font-style: normal; font-weight: 400; font-display: swap;
+  src: url("fonts/poppins-latin-ext-400-normal.woff2") format("woff2");
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+@font-face { font-family: "Poppins"; font-style: italic; font-weight: 400; font-display: swap;
+  src: url("fonts/poppins-latin-ext-400-italic.woff2") format("woff2");
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+@font-face { font-family: "Poppins"; font-style: normal; font-weight: 500; font-display: swap;
+  src: url("fonts/poppins-latin-ext-500-normal.woff2") format("woff2");
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+@font-face { font-family: "Poppins"; font-style: normal; font-weight: 600; font-display: swap;
+  src: url("fonts/poppins-latin-ext-600-normal.woff2") format("woff2");
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+/* ---------------------------------------------------------------------
+   Home page photo with the lab name on top. Shows one photo; the small
+   arrows (bottom right) switch to the next one with a soft fade.
+   Automatic switching is off by default (see assets/site.js).
+   --------------------------------------------------------------------- */
+.hero {
+  position: relative;
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-top: -1.9rem;
+  /* Fixed 3:1 shape, so the photo is cut the same way on every screen.
+     Each photo's focus point is set in index.qmd. */
+  aspect-ratio: 3 / 1;
+  min-height: 340px;
+  overflow: hidden;
+  background: #10181b;
+}
+.hero-slide {
+  position: absolute; inset: 0;
+  background-size: cover; background-position: center;
+  opacity: 0;
+  transition: opacity 0.9s ease;
+}
+.hero-slide.active { opacity: 1; }
+.hero-slide::after, .photo-band::after {
+  content: ""; position: absolute; inset: 0;
+  background: linear-gradient(0deg, rgba(8,14,18,0.62) 0%, rgba(8,14,18,0.18) 38%, rgba(8,14,18,0) 60%);
+}
+.hero-caption, .photo-band-caption {
+  position: absolute; left: 0; right: 0; bottom: 0; z-index: 2;
+  padding: 2rem 2.25rem 2.4rem; color: #fff;
+}
+.hero-inner { max-width: none; margin: 0; }
+.photo-band-caption.right { text-align: right; }
+.hero-eyebrow {
+  font-size: 0.75rem; font-weight: 500; letter-spacing: 0.16em;
+  text-transform: uppercase; color: #cfe5e8; margin-bottom: 0.5rem;
+}
+.hero-title, .photo-band-title {
+  font-weight: 600; font-size: clamp(1.6rem, 3vw, 2.2rem);
+  line-height: 1.1; margin: 0 0 0.8rem; color: #fff;
+}
+.photo-band-title { margin: 0; }
+.hero-subtitle {
+  font-size: clamp(0.98rem, 1.5vw, 1.15rem); font-weight: 300;
+  color: rgba(255,255,255,0.94); max-width: 48ch; line-height: 1.55; margin: 0;
+}
+.hero-controls {
+  position: absolute; right: 1rem; bottom: 1rem; z-index: 3; display: flex; gap: 0.4rem;
+}
+.hero-controls button {
+  width: 2.2rem; height: 2.2rem; border-radius: 50%;
+  border: 1px solid rgba(255,255,255,0.6); background: rgba(8,14,18,0.35);
+  color: #fff; font-size: 1.4rem; line-height: 1; padding: 0 0 0.15rem;
+  cursor: pointer; transition: background .2s ease;
+}
+.hero-controls button:hover { background: rgba(8,14,18,0.65); }
+@media (prefers-reduced-motion: reduce) { .hero-slide { transition: none; } }
+
+/* Full-width photo band on Home (e.g. "Our team"). Keeps the photo's own
+   shape on narrow screens so nobody at the edges is cut off. */
+.photo-band {
+  position: relative;
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-top: 4rem;
+  aspect-ratio: 3 / 1;   /* same shape as the top photo */
+  background-size: cover; background-position: center 88%;
+  background-color: #10181b;
+}
+@media (max-width: 900px) {
+  .photo-band { aspect-ratio: 2.25 / 1; }   /* whole photo on phones */
+  .photo-band-caption { padding: 1rem 1.25rem 1.1rem; }
+  .photo-band-title { font-size: 1.4rem; }
+}
+
+/* ---------------------------------------------------------------------
+   Page banner — the wide photo at the top of each page, with the page
+   title on it. Added automatically from `banner:` in a page's header
+   (see assets/banner.lua). The photo spans the whole window; the title
+   stays aligned with the page's text column.
+   --------------------------------------------------------------------- */
+.page-banner {
+  position: relative;
+  margin-top: -1.9rem;
+  margin-bottom: 2.5rem;
+  height: clamp(220px, 42vh, 440px);
+}
+.page-banner-photo {
+  position: absolute; top: 0; bottom: 0;
+  left: calc(50% - 50vw); width: 100vw;
+  background-size: cover; background-position: center;
+  background-color: #10181b;
+}
+.page-banner-photo::after {
+  content: ""; position: absolute; inset: 0;
+  background: linear-gradient(0deg, rgba(8,14,18,0.55) 0%, rgba(8,14,18,0.12) 32%, rgba(8,14,18,0) 50%);
+}
+.page-banner-title {
+  position: absolute; left: 0; right: 0; bottom: 1.75rem; z-index: 2;
+}
+.page-banner h1 {
+  color: #fff; margin: 0; font-size: clamp(1.8rem, 4vw, 2.8rem);
+  border: none; padding: 0;
+}
+.page-banner .banner-subtitle {
+  color: rgba(255,255,255,0.92); font-weight: 300; margin: 0.35rem 0 0; max-width: 60ch;
+}
+.page-banner .banner-credit {
+  position: absolute; right: 0.9rem; bottom: 0.5rem; z-index: 3;
+  font-size: 0.68rem; color: rgba(255,255,255,0.75);
+}
+
+/* ---------------------------------------------------------------------
+   Sections and intros
+   --------------------------------------------------------------------- */
+.section-intro {
+  max-width: none; font-size: 1.05rem; line-height: 1.7; margin-bottom: 2rem;
+}
+.home-section { max-width: 1140px; margin: 3.5rem auto 0; }
+.home-section > h2 { margin-top: 0; }
+
+/* ---------------------------------------------------------------------
+   Project cards and pop-ups (built by scripts/prerender.R)
+   --------------------------------------------------------------------- */
+.project-grid {
+  display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.5rem;
+}
+@media (max-width: 900px) { .project-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 560px) { .project-grid { grid-template-columns: 1fr; } }
+.project-card {
+  display: block; text-decoration: none; color: inherit;
+  border-radius: 6px; overflow: hidden; background: #fff;
+  border: 1px solid #d9dedc;
+  box-shadow: 0 2px 8px rgba(16,24,27,0.08);
+  transition: box-shadow .2s ease, transform .2s ease;
+}
+.project-card:hover { box-shadow: 0 10px 26px rgba(16,24,27,0.16); transform: translateY(-2px); color: inherit; }
+.project-card-img { display: block; aspect-ratio: 3 / 2; overflow: hidden; background: #f4f5f3; }
+.project-card-img img { width: 100%; height: 100%; object-fit: cover; transition: transform .4s ease; }
+.project-card:hover .project-card-img img { transform: scale(1.03); }
+.project-card-title {
+  display: block; padding: 0.9rem 1.1rem 1.1rem;
+  font-weight: 600; font-size: 1.15rem; line-height: 1.35;
+}
+
+/* The pop-up window */
+.project-modal + .modal-backdrop, .modal-backdrop.show { opacity: 0.85; }
+.project-modal .modal-content { border: none; border-radius: 8px; position: relative; }
+.project-modal .btn-close { position: absolute; top: 0.9rem; right: 0.9rem; z-index: 5; }
+.project-modal .modal-body { padding: 0; }
+.project-nav {
+  position: fixed; top: 50%; transform: translateY(-50%); z-index: 1060;
+  width: 2.8rem; height: 2.8rem; border-radius: 50%; border: none;
+  background: rgba(255,255,255,0.92); color: #1d1f21; font-size: 1.7rem; line-height: 1;
+  padding: 0 0 0.2rem; box-shadow: 0 2px 10px rgba(0,0,0,0.25); cursor: pointer;
+}
+.project-nav:hover { background: #fff; }
+.project-prev { left: 1rem; }
+.project-next { right: 1rem; }
+
+/* ---------------------------------------------------------------------
+   Gallery grid
+   --------------------------------------------------------------------- */
+.gallery-grid {
+  display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.25rem 1rem;
+}
+@media (max-width: 900px) { .gallery-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 560px) { .gallery-grid { grid-template-columns: 1fr; } }
+.gallery-grid .quarto-figure { margin: 0; }
+.gallery-grid img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 4px; }
+.gallery-grid figcaption, .gallery-grid .figure-caption {
+  font-size: 0.8rem; color: #5b6166; line-height: 1.45; margin-top: 0.4rem; text-align: left;
+}
+
+/* ---------------------------------------------------------------------
+   Publications
+   --------------------------------------------------------------------- */
+.publications h2 { margin-top: 2.75rem; padding-bottom: 0.3rem; border-bottom: 1px solid #e6e8e6; }
+.publications h3 { margin-top: 2rem; font-size: 1.15rem; color: #1b5e6b; }
+.publications ul { list-style: none; padding-left: 0; }
+.publications li { margin-bottom: 0.9rem; line-height: 1.5; }
+.publications li a { font-weight: 500; text-decoration: none; }
+.publications li a:hover { text-decoration: underline; }
+.publications .pub-meta { display: block; font-size: 0.88rem; color: #5b6166; }
+
+/* Phone: keep the lab name on one line in the top bar */
+@media (max-width: 575px) {
+  .navbar-brand .navbar-title { font-size: 1rem; }
+}
+
+/* ---------------------------------------------------------------------
+   "Our Mission" on Home: three columns on white
+   --------------------------------------------------------------------- */
+.mission-band { margin: 3.5rem auto 4rem; max-width: 1140px; }
+.mission-band h2 { margin: 0 0 1.5rem; }
+.mission-cols { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 2.5rem; }
+@media (max-width: 900px) { .mission-cols { grid-template-columns: 1fr; gap: 1.75rem; } }
+.mission-col h3 { color: #1b5e6b; font-size: 1.15rem; margin: 0 0 0.6rem; }
+.mission-col p { font-size: 0.95rem; line-height: 1.65; }
+
+/* Compact link rows: small tags, each tag is a link (with a chain icon) */
+.link-row { display: flex; flex-wrap: wrap; gap: 0.4rem 0.45rem; align-items: baseline; margin-top: 0.5rem; }
+.link-row p { display: contents; }
+.link-row-label { width: 100%; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #5b6166; margin-bottom: 0.1rem; }
+a.link-item {
+  font-size: 0.85rem; white-space: nowrap; text-decoration: none; color: #1b5e6b; font-weight: 500;
+  border: 1px solid #b9d6da; background: #eef6f7; border-radius: 999px; padding: 0.12rem 0.65rem;
+  transition: background .15s ease, border-color .15s ease;
+}
+a.link-item:hover { background: #d7e8ea; border-color: #1b5e6b; }
+a.link-item .bi { margin-left: 0.2rem; }
+/* A chain icon after a phrase, as the link */
+a.link-sign { text-decoration: none; margin-left: 0.1rem; padding: 0 0.15rem; border-radius: 3px; color: #1b5e6b; }
+a.link-sign:hover { background: #d7e8ea; }
+
+/* ---------------------------------------------------------------------
+   Methods & Data: alternating rows, picture beside text
+   --------------------------------------------------------------------- */
+.method-row { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.15fr); gap: 2.5rem; align-items: center; margin: 0 0 2rem; }
+.method-row.reverse .method-row-img { order: 2; }
+@media (max-width: 800px) {
+  .method-row { grid-template-columns: 1fr; gap: 1.25rem; }
+  .method-row.reverse .method-row-img { order: 0; }
+}
+.method-row-img .quarto-figure, .method-row-img p { margin: 0; }
+.method-row-img img { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; border-radius: 8px; }
+.method-row-img.figure-fit img { object-fit: contain; background: #fff; }
+.method-row-text h2 { margin-top: 0; color: #1b5e6b; border: none; }
+.method-row-text ul { font-size: 1rem; }
+
+/* From plot to planet: horizontal scale with arrows at both ends
+   (vertical on phones), separated from the rows below by a thin line */
+.scale-strip { position: relative; padding-bottom: 1.75rem; border-bottom: 1px solid #e6e8e6; margin: 0 0 2.25rem; }
+.scale-title { display: block; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #5b6166; margin-bottom: 1rem; }
+.scale-axis { position: relative; height: 2px; background: #1b5e6b; margin: 0 9px; }
+.scale-axis::before, .scale-axis::after {
+  content: ""; position: absolute; top: -5px; border: 6px solid transparent;
+}
+.scale-axis::before { left: -9px; border-left: 0; border-right: 9px solid #1b5e6b; }
+.scale-axis::after  { right: -9px; border-right: 0; border-left: 9px solid #1b5e6b; }
+.scale { list-style: none; padding: 0 0 0 1.25rem; margin: 0; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1.25rem; }
+.scale li { position: relative; padding-top: 1.1rem; }
+.scale li::before {                    /* the dot on the axis */
+  content: ""; position: absolute; left: 0; top: calc(-0.4rem - 1px); width: 0.8rem; height: 0.8rem;
+  border-radius: 50%; background: #fff; border: 2px solid #1b5e6b;
+}
+.scale-name { display: block; font-weight: 600; font-size: 1.05rem; color: #1d1f21; margin-bottom: 0.25rem; }
+.scale-keys { display: block; font-size: 0.86rem; color: #5b6166; line-height: 1.55; }
+@media (max-width: 700px) {
+  .scale { grid-template-columns: 1fr; gap: 0.9rem; padding-left: 1.6rem; }
+  .scale-axis { position: absolute; left: 0.35rem; top: 2.6rem; bottom: 1.6rem; width: 2px; height: auto; margin: 0; }
+  .scale-axis::before { left: -5px; top: -9px; border: 6px solid transparent; border-top: 0; border-bottom: 9px solid #1b5e6b; }
+  .scale-axis::after  { left: -5px; top: auto; bottom: -9px; right: auto; border: 6px solid transparent; border-bottom: 0; border-top: 9px solid #1b5e6b; }
+  .scale li { padding-top: 0; }
+  .scale li::before { left: -1.6rem; top: 0.35rem; }
+}
+
+/* ---------------------------------------------------------------------
+   Project card images: figures, credits, missing images
+   --------------------------------------------------------------------- */
+.project-card-img { position: relative; }
+.project-card-img.is-figure { background: #fff; border-bottom: 1px solid #eef0ee; }
+.project-card-img.is-figure img { object-fit: contain; padding: 0.4rem; }
+.project-card:hover .project-card-img.is-figure img { transform: none; }
+.project-card-noimg {
+  display: flex; align-items: center; justify-content: center; width: 100%; height: 100%;
+  background: linear-gradient(135deg, #d7e8ea, #eef6f7); color: #1b5e6b; font-size: 2.6rem;
+}
+/* small credit inside the image (bottom right) */
+.img-credit {
+  position: absolute; right: 0.4rem; bottom: 0.35rem; z-index: 2;
+  font-size: 0.66rem; line-height: 1.2; color: #fff; background: rgba(8,14,18,0.55);
+  padding: 0.12rem 0.4rem; border-radius: 3px; max-width: 90%;
+}
+
+/* ---------------------------------------------------------------------
+   Project pop-up: title and text only (images are on the cards)
+   --------------------------------------------------------------------- */
+.project-modal .btn-close { padding: 0.55rem; }
+.pm { padding: 2.25rem 2.75rem 2rem; }
+.pm h2 { margin: 0 2rem 1.1rem 0; font-size: 1.5rem; line-height: 1.3; border: none; padding: 0; }
+.pm p, .pm li { font-size: 1rem; line-height: 1.75; }
+.pm > :last-child { margin-bottom: 0; }
+@media (max-width: 767px) {
+  .pm { padding: 1.5rem 1.4rem 4rem; }
+  .pm h2 { font-size: 1.3rem; }
+  .project-nav { top: auto; bottom: 0.8rem; transform: none; width: 2.5rem; height: 2.5rem; }
+  .project-prev { left: 0.8rem; } .project-next { right: 0.8rem; }
+}
+
+/* Small link sign next to a title on a photo */
+.band-link {
+  display: inline-flex; align-items: center; justify-content: center; vertical-align: middle;
+  width: 1.9rem; height: 1.9rem; margin-left: 0.4rem; border-radius: 50%;
+  font-size: 1.15rem; color: #fff !important; text-decoration: none;
+  border: 1px solid rgba(255,255,255,0.7); background: rgba(8,14,18,0.3);
+}
+.band-link:hover { background: rgba(8,14,18,0.6); }
+
+/* Teaching: course list */
+.course-list ul { list-style: none; padding: 0; margin: 0.5rem 0 2rem; border-top: 1px solid #e6e8e6; }
+.course-list li { padding: 1.1rem 0 1.15rem; border-bottom: 1px solid #e6e8e6; line-height: 1.65; }
+.course-list li strong { font-size: 1.08rem; font-weight: 600; }
+.course-code {
+  display: inline-block; font-size: 0.76rem; font-weight: 600; letter-spacing: 0.08em; margin-right: 0.5rem;
+  color: #1b5e6b; background: #eef6f7; border: 1px solid #b9d6da; border-radius: 999px; padding: 0.05rem 0.6rem;
+  vertical-align: 0.1em;
+}
+.course-meta { font-size: 0.88rem; color: #5b6166; }

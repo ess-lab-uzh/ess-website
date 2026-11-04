@@ -1,0 +1,21 @@
+# Built website (made by Quarto; GitHub builds its own copy)
+/_site/
+/.quarto/
+/site_libs/
+
+# RStudio / R
+.Rproj.user/
+*.Rproj.user/
+.Rhistory
+.RData
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Note: projects/_projects.md and gallery/_photos.md are rebuilt by
+# scripts/prerender.R on every render, but are kept in the repository on purpose.
+
+# Upload bundles
+*.zip

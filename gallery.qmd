@@ -1,0 +1,14 @@
+---
+title: "Gallery"
+page-layout: full
+---
+
+::: {style="max-width: 1140px; margin: 0 auto 4rem;"}
+
+::: {.section-intro}
+Impressions from our field sites and labs.
+:::
+
+{{< include gallery/_photos.md >}}
+
+:::

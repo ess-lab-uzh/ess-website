@@ -1,0 +1,40 @@
+---
+title: "Teaching"
+banner: assets/img/banner/teaching-field.jpg
+banner-credit: "Cambridge Bay, Canada 2023 © Jakob Assmann"
+page-layout: full
+---
+
+::: {style="max-width: 1140px; margin: 0 auto 4rem;"}
+
+::: {.section-intro}
+At the University of Zurich, we teach at Bachelor and Master levels, from an
+introduction to the Earth system to spatial ecology, remote sensing and Earth
+system modelling. We also supervise Master's theses; current topics are on
+the [Research](research.qmd) page.
+:::
+
+::: {.course-list}
+
+- [ESS101]{.course-code} **Introduction to Earth System Science**\
+  Lectures and an excursion introducing the Earth as a system and the
+  interactions between its components.\
+  [Bachelor · Autumn semester]{.course-meta}
+
+- [EEE334]{.course-code} **Biodiversity from Species to Landscape Scale – Concepts and Methods in Spatial Ecology and Remote Sensing**\
+  Concepts and methods for studying biodiversity from species to landscape
+  scale, combining spatial ecology, remote sensing and GIS in lectures,
+  practicals and computer labs.\
+  [Master · Autumn semester, block course]{.course-meta}
+
+- [ESS416]{.course-code} **Earth System Modelling**\
+  Concepts of Earth system modelling, with hands-on programming in computer
+  labs.\
+  [Master · Spring semester]{.course-meta}
+
+:::
+
+Course details, dates and registration are in the UZH course catalogue
+[[]{.bi .bi-link-45deg}](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html){.link-sign title="UZH course catalogue"}.
+
+:::

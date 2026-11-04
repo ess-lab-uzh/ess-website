@@ -1,0 +1,40 @@
+---
+title: "Imprint & privacy"
+---
+
+## Imprint
+
+**Responsible for the content of this website:**
+Prof. Gabriela Schaepman-Strub, Earth System Science Lab, Department of
+Evolutionary Biology and Environmental Studies, University of Zurich,
+Winterthurerstrasse 190, 8057 Zurich, Switzerland.
+
+See [Contact](contact.qmd) for how to get in touch.
+
+## Photos and code
+
+Photographs are © the photographers named in their captions and may not be
+reused without permission. The website's code is based on the
+[Predictive Ecology Group website](https://github.com/opetchey/predictive-ecology-zurich)
+by Owen Petchey (MIT licence).
+
+## Privacy
+
+This website does not use analytics, does not set cookies, and does not
+embed third-party trackers. Fonts, styles and scripts are all served from
+this site itself rather than from third-party services, so visiting this
+site does not, on its own, send information about you to any company
+other than the one hosting the site (see below).
+
+**Hosting.** This site is hosted on GitHub Pages (GitHub, Inc.). As with any
+web host, GitHub's servers necessarily process standard technical
+information to deliver pages, for example your IP address and the page
+requested, as part of ordinary web server operation. See
+[GitHub's privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
+for details.
+
+**Outbound links.** Some pages link to other websites, for example journals,
+news articles or partner networks. Those sites have their own privacy
+practices, which this notice does not cover.
+
+If you have questions about this privacy notice, see [Contact](contact.qmd).

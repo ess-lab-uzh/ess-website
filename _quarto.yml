@@ -1,0 +1,79 @@
+project:
+  type: website
+  output-dir: _site
+  # Runs before every render (locally and on GitHub). Builds the project
+  # cards/pop-ups and the gallery from their content files. Base R only.
+  pre-render: scripts/prerender.R
+  render:
+    - "*.qmd"
+  resources:
+    - "robots.txt"
+    - "files/**"
+    - "assets/fonts/**"
+    - "assets/img/**"
+    - "gallery/photos/**"
+    - "projects/**/*.jpg"
+    - "projects/**/*.jpeg"
+    - "projects/**/*.png"
+    - "assets/site.js"
+
+execute:
+  freeze: auto
+
+website:
+  title: "Earth System Science Lab"
+  site-url: "https://earthsystemscience.org"
+  description: "Earth System Science Lab, University of Zurich: the Arctic as a component of the Earth system, from field plots to satellites and climate models."
+  favicon: assets/img/favicon.svg
+  page-navigation: false
+  bread-crumbs: false
+
+  navbar:
+    background: light
+    collapse-below: lg
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Methods"
+        href: methods.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Our Mission"
+        href: mission.qmd
+      - text: "Gallery"
+        href: gallery.qmd
+      - text: "Contact"
+        href: contact.qmd
+
+  page-footer:
+    border: true
+    left: |
+      Earth System Science Lab · Department of Evolutionary Biology and Environmental Studies · University of Zurich
+    right: |
+      [Contact](/contact.qmd) · [Imprint & privacy](/imprint.qmd)
+
+format:
+  html:
+    theme: [default, assets/theme.scss]
+    css: assets/styles.css
+    toc: false
+    anchor-sections: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    lightbox: auto
+    html-math-method: plain
+    filters:
+      - assets/banner.lua
+    # TEMPORARY: keeps search engines away from the test copy at
+    # ess-lab-uzh.github.io. Remove these 3 lines when switching to
+    # earthsystemscience.org.
+    include-in-header:
+      - text: |
+          <meta name="robots" content="noindex, nofollow">
+    include-after-body:
+      - text: |
+          <script src="assets/site.js"></script>

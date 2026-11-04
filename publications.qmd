@@ -1,0 +1,210 @@
+---
+title: "Publications"
+banner: assets/img/banner/publications-cottongrass.jpg
+banner-credit: "Kytalyk, Siberia © Gabriela Schaepman-Strub"
+---
+
+::: {.publications}
+
+## Selected publications
+
+- [Envisioning desirable futures for Arctic biodiversity to overcome “doom and gloom”](https://doi.org/10.1139/as-2025-0103)
+  [J.J. Assmann et al., *Arctic Science*]{.pub-meta}
+- [Human activity increases Arctic fire occurrence within and near lit areas](https://doi.org/10.1038/s43247-026-03884-3)
+  [C. Akandil et al., *Communications Earth & Environment*]{.pub-meta}
+- [Artificial light at night reveals hotspots and rapid development of industrial activity in the Arctic](https://doi.org/10.1073/pnas.2322269121)
+  [C. Akandil et al., *PNAS*]{.pub-meta}
+- [Vegetation type is an important predictor of the arctic summer land surface energy budget](https://doi.org/10.1038/s41467-022-34049-3)
+  [J. Oehri et al., *Nature Communications*]{.pub-meta}
+- [Russian Arctic Vegetation Archive—A new database of plant community composition and environmental conditions](https://doi.org/10.1111/geb.13724)
+  [V. Zemlianskii et al., *Global Ecology and Biogeography*]{.pub-meta}
+- [Will current protected areas harbor refugia for threatened Arctic vegetation types until 2050? A first assessment](https://doi.org/10.1080/15230430.2023.2203478)
+  [M. Reji Chacko et al., *Arctic, Antarctic, and Alpine Research*]{.pub-meta}
+- [Mid-summer snow-free albedo across the Arctic tundra was mostly stable or increased over the past two decades](https://doi.org/10.1088/1748-9326/aca5a1)
+  [E. Plekhanova et al., *Environmental Research Letters*]{.pub-meta}
+
+## All publications
+
+
+### 2026
+
+- [Does higher-resolution climate forcing improve impact model performance?](https://doi.org/10.1088/1748-9326/aeb279)
+  [J. Malle et al., *Environmental Research Letters*]{.pub-meta}
+- [Geoengineering to save the Arctic?](https://doi.org/10.1525/elementa.2025.00120)
+  [J. Schmale et al., *Elementa: Science of the Anthropocene*]{.pub-meta}
+- [Shared and divergent rates and trajectories of Arctic vegetation community reorganization after fire and fertilization](https://doi.org/10.1139/as-2025-0102)
+  [A.V. Rocha et al., *Arctic Science*]{.pub-meta}
+- [Envisioning desirable futures for Arctic biodiversity to overcome “doom and gloom”](https://doi.org/10.1139/as-2025-0103)
+  [J.J. Assmann et al., *Arctic Science*]{.pub-meta}
+- [Human activity increases Arctic fire occurrence within and near lit areas](https://doi.org/10.1038/s43247-026-03884-3)
+  [C. Akandil et al., *Communications Earth & Environment*]{.pub-meta}
+- [Metagenomic insights into viral and microbial genes of Russian High-Arctic soil microbiomes](https://doi.org/10.1038/s42003-026-10050-0)
+  [B. Frey et al., *Communications Biology*]{.pub-meta}
+
+### 2025
+
+- [The Circumpolar Arctic Vegetation Science Initiative (CAVSI) White Paper: A framework to help guide the next decade of arctic vegetation research (2025)](https://doi.org/10.18739/a2t43j49w)
+  [D. Walker et al., *NSF Arctic Data Center*]{.pub-meta}
+- [High variation in the surface extent of freshwater ponds creates dynamic Arctic tundra landscapes in the lowlands of Eastern Siberia](https://doi.org/10.1088/1748-9326/ae0fb1)
+  [J.J. Assmann et al., *Environmental Research Letters*]{.pub-meta}
+- [Anthropogenic fire reduces migratory bird abundance and diversity at a stopover site](files/Heim_et_al-2025-Scientific_Reports.pdf)
+  [W. Heim et al., *Scientific Reports*]{.pub-meta}
+- [Essential biodiversity variables framework for terrestrial antarctic and sub-antarctic ecosystems](https://zenodo.org/records/16033540)
+  [C. Plasman et al., *SCAR Antarctic Biodiversity Portal*]{.pub-meta}
+- [Molecular footprints of Quaternary climate fluctuations in the circumpolar tundra shrub dwarf birch](https://d197for5662m48.cloudfront.net/documents/publicationstatus/233777/preprint_pdf/353397287dfd7b42e93aab2f81fbfd0a.pdf)
+  [M. Dance et al., *ESS Open Archive*]{.pub-meta}
+- [Addressing uncertainties in permafrost-climate interactions](https://www.sciencedirect.com/science/article/pii/S2590332225002465)
+  [M.J. Kwon et al., *One Earth*]{.pub-meta}
+- [Finding northernmost baselines: high variability of above-ground biomass on Eurasian polar desert islands](https://iopscience.iop.org/article/10.1088/2752-664X/adf447)
+  [V. Zemlianskii et al., *Environmental Research Ecology*]{.pub-meta}
+- [Topographic effects on vegetation greening and area expansion in global alpine zones under climate change](https://www.sciencedirect.com/science/article/pii/S1569843225003747)
+  [L. Zou et al., *Journal of Applied Earth Observation and Geoinformation*]{.pub-meta}
+- [Lunar cycle and moonlight intensity influence nocturnal migration patterns in a small songbird](https://www.nature.com/articles/s41598-025-04270-3)
+  [D. Prinz et al., *Scientific Reports*]{.pub-meta}
+- [Plant diversity dynamics over space and time in a warming Arctic](https://www.nature.com/articles/s41586-025-08946-8)
+  [M.G. Criado et al., *Nature*]{.pub-meta}
+- [The changing face of the Arctic: four decades of greening and implications for tundra ecosystems](https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2025.1525574/full)
+  [G.V. Frost et al., *Frontiers in Environmental Science*]{.pub-meta}
+- [Pre-Fire Vegetation Conditions and Topography Shape Burn Mosaics of Siberian Tundra Fire Scars](https://doi.org/10.1029/2024JG008608)
+  [N. Rietze et al., *Journal of Geophysical Research – Biogeosciences*]{.pub-meta}
+- [Arctic tundra ecosystems under fire—Alternative ecosystem states in a changing climate?](https://doi.org/10.1111/1365-2745.70022)
+  [R.J. Heim et al., *Journal of Ecology*]{.pub-meta}
+- [Taxonomic diversity and abundance of enchytraeids (Annelida, Clitellata, Enchytraeida) in the Northern Palaearctic. 2. European Russia](https://doi.org/10.3897/BDJ.13.e144992)
+  [R. Saifutdinov et al., *Biodiversity Data Journal*]{.pub-meta}
+- [Snow persistence lowers and delays peak NDVI, the vegetation index that underpins Arctic greening analyses](https://doi.org/10.1088/1748-9326/adacff)
+  [C.G. Hoad et al., *Environmental Research Letters*]{.pub-meta}
+- [Temperate forests of high conservation value are successfully identified by satellite and LiDAR data fusion](https://doi.org/10.1111/csp2.13302)
+  [J.J.Assmann et al., *Conservation Science and Practice*]{.pub-meta}
+- [Persistent and emerging threats to Arctic biodiversity and ways to overcome them: a horizon scan](https://cdnsciencepub.com/doi/epdf/10.1139/as-2024-0035)
+  [T.A. Lemieux et al., *Arctic Science*]{.pub-meta}
+- [Asian Arctic tundra: Vast permafrost ecosystems under increasing pressure from climate change and industrial development](https://doi.org/10.1016/B978-0-443-36569-0.00034-3)
+  [G. Schaepman-Strub et al., *Terrestrial Biomes*]{.pub-meta}
+
+### 2024
+
+- [Tundra Greenness](https://doi.org/10.25923/5t2g-fm41)
+  [G.V. Frost et al., *Arctic Report Card 2024*]{.pub-meta}
+- [Microclimate explains little variation in year-round decomposition across an Arctic tundra landscape](https://doi.org/10.1111/njb.04062)
+  [J. von Oppen et al., *Nordic Journal of Botany*]{.pub-meta}
+- [Migration routes and adult survival of the critically endangered yellow-breasted bunting Emberiza aureola](https://doi.org/10.1038/s41598-024-83138-4)
+  [W. Heim et al., *Scientific Reports*]{.pub-meta}
+- [Comparing Historical and Contemporary Observations of Avian Fauna on the Yáláƛi (Goose Island) Archipelago, British Columbia, Canada](https://doi.org/10.1002/ece3.70464)
+  [D.S. Obrist et al., *Ecology and Evolution*]{.pub-meta}
+- [Low average shoreline change rate in 51 years on the raised Aldabra Atoll](https://doi.org/10.1038/s41598-024-74595-y)
+  [A. Constance et al., *Scientific Reports*]{.pub-meta}
+- [Artificial light at night reveals hotspots and rapid development of industrial activity in the Arctic](https://doi.org/10.1073/pnas.2322269121)
+  [C. Akandil et al., *PNAS*]{.pub-meta}
+- [Radiative forcing geoengineering causes higher risk of wildfires and permafrost thawing over the Arctic regions](https://doi.org/10.1038/s43247-024-01329-3)
+  [R. Müller et al., *Communications Earth & Environment*]{.pub-meta}
+- [Summer drought weakens land surface cooling of tundra vegetation](https://doi.org/10.1088/1748-9326/ad345e)
+  [N. Rietze et al., *Environmental Research Letters*]{.pub-meta}
+- [Current and past climate co‐shape community‐level plant species richness in the Western Siberian Arctic](https://doi.org/10.1002/ece3.11140)
+  [V. Zemlianskii et al., *Ecology and Evolution*]{.pub-meta}
+- [Arctic springtime temperature and energy flux interannual variability is driven by 1-to 2-week frequency atmospheric events](https://doi.org/10.1016/j.wace.2024.100650)
+  [R. Grysko et al., *Weather and Climate Extremes*]{.pub-meta}
+
+### 2023
+
+- [Climate Niche Modeling Reveals the Fate of Pioneering Late Pleistocene Populations in Northern Europe](https://doi.org/10.1086/726700)
+  [J.B. Pedersen et al., *Current Anthropology*]{.pub-meta}
+- [Vegetation structure from LiDAR explains the local richness of birds across Denmark](https://doi.org/10.1111/1365-2656.13945)
+  [C.W. Davison et al., *Journal of Animal Ecology*]{.pub-meta}
+- [‘LandsatTS': an R package to facilitate retrieval, cleaning, cross-calibration, and phenological modeling of Landsat time series data](https://doi.org/10.1111/ecog.06768)
+  [L.T. Berner et al., *Ecography*]{.pub-meta}
+- [Plant diversity dynamics over space and time in a warming Arctic](https://doi.org/10.32942/X2MS4N)
+  [M. García Criado et al., *California Digital Library*]{.pub-meta}
+- [Equivalent roles of marine subsidies and island biogeography in shaping island bird communities](https://doi.org/10.1111/jbi.14728)
+  [D.S. Obrist et al., *Journal of Biogeography*]{.pub-meta}
+- [The High–Low Arctic boundary: How is it determined and where is it located?](https://doi.org/10.1002/ece3.10545)
+  [K.A. Ermokhina et al., *Ecology and Evolution*]{.pub-meta}
+- [A global biodiversity observing system to unite monitoring and guide action](https://doi.org/10.1038/s41559-023-02171-0)
+  [A. Gonzalez et al., *Nature Ecology & Evolution*]{.pub-meta}
+- [Deciduous tundra shrubs shift toward more acquisitive light absorption strategy under climate change treatments](https://doi.org/10.1029/2023JG007657)
+  [R.J. Heim et al., *Journal of Geophysical Research-Biogeosciences*]{.pub-meta}
+- [Plant traits poorly predict winner and loser shrub species in a warming tundra biome](https://doi.org/10.1038/s41467-023-39573-4)
+  [M. García Criado et al., *Nature Communications*]{.pub-meta}
+- [Russian Arctic Vegetation Archive—A new database of plant community composition and environmental conditions](https://doi.org/10.1111/geb.13724)
+  [V. Zemlianskii et al., *Global Ecology and Biogeography*]{.pub-meta}
+- [Will current protected areas harbor refugia for threatened Arctic vegetation types until 2050? A first assessment](https://doi.org/10.1080/15230430.2023.2203478)
+  [M. Reji Chacko et al., *Arctic, Antarctic, and Alpine Research*]{.pub-meta}
+- [Environmental and anthropogenic factors co-shape community-level plant species richness across the Western Siberian Arctic](https://www.authorea.com/doi/full/10.22541/au.168421377.75493691)
+  [V. Zemlianskii et al., *Authorea*]{.pub-meta}
+
+### 2022
+
+- [What set Siberia ablaze?](https://doi.org/10.1126/science.ade8673)
+  [G. Schaepman-Strub et al., *Science*]{.pub-meta}
+- [Plant traits poorly predict winner and loser shrub species in a warming tundra biome](https://doi.org/10.32942/X23S3M)
+  [M.G. Criado et al., *EcoEvoRxiv*]{.pub-meta}
+- [Mid-summer snow-free albedo across the Arctic tundra was mostly stable or increased over the past two decades](https://doi.org/10.1088/1748-9326/aca5a1)
+  [E. Plekhanova et al., *Environmental Research Letters*]{.pub-meta}
+- [Vegetation type is an important predictor of the arctic summer land surface energy budget](https://doi.org/10.1038/s41467-022-34049-3)
+  [J. Oehri et al., *Nature Communications*]{.pub-meta}
+- [Soil nutrient content and water level variation drive mangrove forest aboveground biomass in the lagoonal ecosystem of Aldabra Atoll](https://www.sciencedirect.com/science/article/pii/S1470160X22007646)
+  [A. Constance et al., *Ecological Indicators*]{.pub-meta}
+- [Arctic warming-induced cold damage to East Asian terrestrial ecosystems](https://doi.org/10.1038/s43247-022-00343-7)
+  [J.S. Kim et al., *Communications Earth & Environment*]{.pub-meta}
+- [Increasing Arctic tundra flooding threatens wildlife habitat and survival: impacts on the critically endangered Siberian crane](https://doi.org/10.3389/fcosc.2022.799998)
+  [P.J. Haverkamp et al., *Frontiers in Conservation Science*]{.pub-meta}
+- [Literature synthesis data of surface energy fluxes and environmental drivers from Arctic vegetation and glacier sites](https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemFullPage.jsp?itemId=item_5015057_2)
+  [J. Oehri et al., *PANGAEA*]{.pub-meta}
+- [Harmonized in-situ observations of surface energy fluxes and environmental drivers at 64 Arctic vegetation and glacier sites-Environmental conditions](https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemFullPage.jsp?itemId=item_5015068_2)
+  [J. Oehri et al., *PANGAEA*]{.pub-meta}
+- [Effects of multiple targeted repelling measures on the behaviour of individually tracked birds in an area of increasing human–wildlife conflict](https://doi.org/10.1111/1365-2664.14297)
+  [W. Heim et al., *Journal of Applied Ecology*]{.pub-meta}
+
+### 2021
+
+- [Extent change of protected mangrove forest and its relation to wave power exposure on Aldabra Atoll](https://doi.org/10.1016/j.gecco.2021.e01564)
+  [A. Constance et al., *Global Ecology and Conservation*]{.pub-meta}
+- [Metal accumulation and its effect on leaf herbivory in an allopolyploid species Arabidopsis kamchatica inherited from a diploid hyperaccumulator A. halleri](https://doi.org/10.1111/1442-1984.12304)
+  [R. Shimizu-Inatsugi et al., *Plant Species Biology*]{.pub-meta}
+- [How does leaf functional diversity affect the light environment in forest canopies? An in-silico biodiversity experiment](https://doi.org/10.1016/j.ecolmodel.2020.109394)
+  [E. Plekhanova et al., *Ecological Modelling*]{.pub-meta}
+- [Design of the tundra rainfall experiment (TRainEx) to simulate future summer precipitation scenarios](https://doi.org/10.1016/j.mex.2021.101331)
+  [R. Grysko et al., *MethodsX*]{.pub-meta}
+- [Mapping Invasive Giant Goldenrod (Solidago gigantea) with Multispectral Images Acquired by Unmanned Aerial Vehicle](https://gispoint.de/fileadmin/user_upload/paper_gis_open/DLA_2021/537705021.pdf)
+  [C. Akandil et al., *Journal of Digital Landscape Architecture*]{.pub-meta}
+
+### 2020
+
+- [Shallow soils are warmer under trees and tall shrubs across Arctic and Boreal ecosystems](https://doi.org/10.1088/1748-9326/abc994)
+  [H. Kropp et al., *Environmental Research Letters*]{.pub-meta}
+- [Study of the vascular plants diversity in the surroundings of the Kytalyk Research Station (Arctic Yakutia)](https://doi.org/10.3897/ap.2.e57091)
+  [O. Khitun et al., *ARPHA Proceedings*]{.pub-meta}
+- [The biogeochemical variability of Arctic thermokarst ponds is reflected by stochastic and niche-driven microbial community assembly processes](https://doi.org/10.1111/1462-2920.15260)
+  [A. Le Moigne et al., *Environmental Microbiology*]{.pub-meta}
+- [Plant trait response of tundra shrubs to permafrost thaw and nutrient addition](https://doi.org/10.5194/bg-17-4981-2020)
+  [M. Iturrate-Garcia et al., *Biogeosciences*]{.pub-meta}
+- [Vegetation trajectories and shortwave radiative forcing following boreal forest disturbance in eastern Siberia](https://doi.org/10.1029/2019JG005395)
+  [S.M. Stuenzi et al., *Journal of Geophysical Research: Biogeosciences*]{.pub-meta}
+- [Global plant trait relationships extend to the climatic extremes of the tundra biome](https://doi.org/10.1038/s41467-020-15014-4)
+  [H.J.D. Thomas et al., *Nature communications*]{.pub-meta}
+- [Impacts of the 2014–2017 global bleaching event on a protected remote atoll in the Western Indian Ocean](https://doi.org/10.1007/s00338-019-01853-1)
+  [J.M.B. Cerutti et al., *Coral Reefs*]{.pub-meta}
+- [Complexity revealed in the greening of the Arctic](https://doi.org/10.1038/s41558-019-0688-1)
+  [I.H. Myers-Smith et al., *Nature Climate Change*]{.pub-meta}
+- [Terrestrial land-cover type richness is positively linked to landscape-level functioning](https://doi.org/10.1038/s41467-019-14002-7)
+  [J. Oehri et al., *Nature Communications*]{.pub-meta}
+- [Extensive fires in southeastern Siberian permafrost linked to preceding Arctic Oscillation](https://doi.org/10.1126/sciadv.aax3308)
+  [J.S. Kim et al., *Science advances*]{.pub-meta}
+- [Remote sensing of plant biodiversity](https://library.oapen.org/handle/20.500.12657/39986)
+  [J. Cavender-Bares et al., *Springer Nature*]{.pub-meta}
+
+### 2019
+
+- [In the land of giants: habitat use and selection of the Aldabra giant tortoise on Aldabra Atoll](https://doi.org/10.1007/s10531-019-01813-9)
+  [R. Walton et al., *Biodiversity and Conservation*]{.pub-meta}
+- [A raster version of the Circumpolar Arctic Vegetation Map (CAVM)](https://doi.org/10.1016/j.rse.2019.111297)
+  [M.K. Raynolds et al., *Remote Sensing of Environment*]{.pub-meta}
+- [An overview of global leaf area index (LAI): Methods, products, validation, and applications](https://doi.org/10.1029/2018RG000608)
+  [H. Fang et al., *Reviews of Geophysics*]{.pub-meta}
+- [‘There are new species’: indigenous knowledge of biodiversity change in Arctic Yakutia](https://doi.org/10.1080/1088937X.2018.1547326)
+  [S. Ksenofontov et al., *Polar Geography*]{.pub-meta}
+- **Validation practices for satellite-based Earth observation data across communities**
+  [T. Verhoelst et al., *Geophysical Research Abstracts*]{.pub-meta}
+- [Traditional plant functional groups explain variation in economic but not size‐related traits across the tundra biome](https://doi.org/10.1111/geb.12783)
+  [H.J.D. Thomas et al., *Global ecology and biogeography*]{.pub-meta}
+
+
+:::

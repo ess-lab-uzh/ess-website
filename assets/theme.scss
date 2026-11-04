@@ -1,0 +1,59 @@
+/*-- scss:defaults --*/
+
+// Typography: Poppins throughout, as on the old Squarespace site.
+// Self-hosted (see assets/styles.css), so no request goes to Google.
+$font-family-sans-serif: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif !default;
+$font-family-base: $font-family-sans-serif;
+$headings-font-family: $font-family-sans-serif;
+$headings-font-weight: 600;
+$headings-line-height: 1.2;
+$font-size-base: 1rem;
+$line-height-base: 1.7;
+
+// Colours: quiet neutrals so the photos carry the colour, plus one
+// deep "Arctic petrol" accent for links and highlights.
+$accent:      #1b5e6b;
+$accent-tint: #d7e8ea;
+
+$primary:    $accent;
+$secondary:  #5b6166;
+$body-bg:    #ffffff;
+$body-color: #1d1f21;
+$link-color: $accent;
+
+$navbar-bg: #ffffff;
+$navbar-fg: #1d1f21;
+$navbar-hl: $accent;
+
+$footer-bg: #f4f5f3;
+$footer-fg: #5b6166;
+
+$border-color: #e6e8e6;
+
+$h1-font-size: 2.4rem;
+$h2-font-size: 1.7rem;
+$h3-font-size: 1.25rem;
+$h4-font-size: 1.05rem;
+
+/*-- scss:rules --*/
+
+body { -webkit-font-smoothing: antialiased; font-weight: 400; }
+
+.navbar {
+  border-bottom: 1px solid $border-color;
+  .navbar-brand, .navbar-title { font-weight: 600; letter-spacing: 0.01em; }
+  .nav-link { font-size: 1.02rem; font-weight: 500; }
+  .nav-link.active { color: $accent !important; }
+}
+
+a { text-underline-offset: 0.18em; }
+
+h2 { margin-top: 2.5rem; }
+
+.page-footer {
+  font-size: 0.8rem;
+  a { color: $footer-fg; text-decoration: underline; }
+  a:hover { color: $accent; }
+}
+
+blockquote { border-left: 3px solid $accent-tint; color: $secondary; }

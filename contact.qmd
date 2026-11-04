@@ -1,0 +1,17 @@
+---
+title: "Contact"
+banner: assets/img/banner/contact-toolik-lake.jpg
+banner-credit: "Toolik Lake, Alaska 2023 © Vitalii Zemlianskii"
+---
+
+**Email:** [admin.schaepman-strub@ieu.uzh.ch](mailto:admin.schaepman-strub@ieu.uzh.ch)
+
+**Address:**
+
+> Prof. Gabriela Schaepman-Strub\
+> University of Zurich\
+> Department of Evolutionary Biology and Environmental Studies\
+> Winterthurerstrasse 190\
+> 8057 Zurich, Switzerland
+
+[Prof. Gabriela Schaepman-Strub at the University of Zurich →](https://www.ieu.uzh.ch/en/staff/member/schaepman_strub_gabriela.html)

@@ -1,0 +1,116 @@
+---
+title: "Earth System Science Lab"
+page-layout: full
+title-block-banner: false
+---
+
+```{=html}
+<style>#title-block-header{display:none;}</style>
+```
+
+<!-- Home photo. The first slide is shown when the page opens; the arrows
+     switch photos. For slow automatic switching, set data-interval to a
+     number of seconds, e.g. data-interval="30". 0 = no automatic switching.
+     The second value in background-position moves the crop up/down
+     (0% = show the top of the photo, 100% = show the bottom). The first value
+     does the same left/right; it matters on phones. -->
+
+```{=html}
+<div class="hero" data-interval="0">
+  <div class="hero-slide active" style="background-image:url('assets/img/banner/kytalyk-tent.jpg'); background-position: 70% 73%;"></div>
+  <div class="hero-slide" style="background-image:url('assets/img/banner/alaska-ponds-helicopter.jpg'); background-position: 40% 68%;"></div>
+  <div class="hero-slide" style="background-image:url('assets/img/banner/arctic-century-expedition.jpg'); background-position: 40% 61%;"></div>
+  <div class="hero-slide" style="background-image:url('assets/img/banner/alaska-2023.jpg'); background-position: 50% 39%;"></div>
+  <div class="hero-caption">
+    <div class="hero-inner">
+      <div class="hero-eyebrow">University of Zurich</div>
+      <p class="hero-title">Earth System Science Lab</p>
+      <p class="hero-subtitle">We study the Arctic as a component of the Earth system, from field plots to satellites and climate models.</p>
+    </div>
+  </div>
+  <div class="hero-controls">
+    <button type="button" class="hero-prev" aria-label="Previous photo">&#8249;</button>
+    <button type="button" class="hero-next" aria-label="Next photo">&#8250;</button>
+  </div>
+</div>
+```
+
+::: {.home-section}
+
+## Our Research
+
+{{< include projects/_projects.md >}}
+
+
+:::
+
+```{=html}
+<div class="photo-band" style="background-image:url('assets/img/banner/our-team.jpg');">
+  <div class="photo-band-caption right"><div class="hero-inner">
+    <p class="photo-band-title">Our team <a class="band-link" href="https://www.ieu.uzh.ch/member/group.php?typ=gr_schaepman-strub" target="_blank" rel="noopener" title="Our team at the University of Zurich" aria-label="Our team at the University of Zurich"><i class="bi bi-link-45deg"></i></a></p>
+  </div></div>
+</div>
+```
+
+::: {.mission-band}
+::: {.mission-inner}
+
+## Our Mission
+
+::: {.mission-cols}
+
+::: {.mission-col}
+### Science
+
+We contribute to understanding the Arctic as a system component by bridging
+disciplines and methodological approaches, sharing results and data through
+open science, and teaching across disciplines.
+
+::: {.link-row}
+[Science networks]{.link-row-label}
+[HiLDEN []{.bi .bi-link-45deg}](https://arcticdrones.org){.link-item title="HiLDEN"}
+[AVA []{.bi .bi-link-45deg}](https://iasc.info/our-work/working-groups/terrestrial/twg-projects/817-an-arctic-vegetation-archive-ava){.link-item title="Arctic Vegetation Archive"}
+[EU-Charter []{.bi .bi-link-45deg}](https://www.charter-arctic.org){.link-item title="EU-Charter"}
+[Geoengineering []{.bi .bi-link-45deg}](https://iasc.info/our-work/working-groups/cross-cutting-activities/cross-cutting-funded-projects/1129-geoengineering-to-save-the-arctic-assessing-potential-efficacy-impacts-and-ethical-considerations-across-rightholders-stakeholders-and-scientific-disciplines){.link-item title="Geoengineering to save the Arctic?"}
+:::
+:::
+
+::: {.mission-col}
+### Society
+
+We aim to address societal challenges at the nexus of climate and
+biodiversity, and to inform society through webinars, panel discussions and
+newspaper articles.
+
+::: {.link-row}
+[In the media]{.link-row-label}
+[UZH News []{.bi .bi-link-45deg}](https://www.news.uzh.ch/en/articles/media/2024/Arctic.html){.link-item title="Rapidly Increasing Industrial Activities in the Arctic"}
+[The World []{.bi .bi-link-45deg}](https://theworld.org/stories/2022-12-20/critical-permafrost-research-russia-disrupted-war-ukraine){.link-item title="Critical permafrost research in Russia disrupted by war in Ukraine"}
+[SRF Tagesschau []{.bi .bi-link-45deg}](https://www.srf.ch/play/tv/tagesschau/video/tagesschau-vom-20-11-2022-hauptausgabe?urn=urn%3Asrf%3Avideo%3A4c86acab-cb58-48f5-a5f4-a63f1935091f){.link-item title="Interview Prof. Dr. Gabriela Schaepman-Strub for SRF Tagesschau"}
+[swissinfo: Arctic research []{.bi .bi-link-45deg}](https://www.swissinfo.ch/eng/russia-ukraine-war-threatens-crucial-arctic-research/47533972){.link-item title="War in Ukraine threatens crucial Arctic research"}
+[swissinfo: biodiversity []{.bi .bi-link-45deg}](https://www.swissinfo.ch/eng/will-the-new-biodiversity-framework-help-us-live-in-harmony-with-nature-/48148250){.link-item title="Will the new biodiversity framework help us live in harmony with nature?"}
+[SCNAT []{.bi .bi-link-45deg}](https://naturwissenschaften.ch/trendwende){.link-item title="Swiss parliament meets science"}
+:::
+:::
+
+::: {.mission-col}
+### Policy
+
+We contribute to international science-policy platforms, Arctic
+organisations and conventions on biodiversity.
+
+::: {.link-row}
+[Bodies]{.link-row-label}
+[IPBES []{.bi .bi-link-45deg}](https://ipbes.net){.link-item title="Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services"}
+[IASC []{.bi .bi-link-45deg}](https://iasc.info){.link-item title="International Arctic Science Committee"}
+[CAFF []{.bi .bi-link-45deg}](https://www.caff.is){.link-item title="Conservation of Arctic Flora and Fauna"}
+[CBD []{.bi .bi-link-45deg}](https://www.cbd.int){.link-item title="Convention on Biological Diversity"}
+[WBF []{.bi .bi-link-45deg}](https://www.worldbiodiversityforum.org){.link-item title="World Biodiversity Forum"}
+:::
+:::
+
+:::
+
+
+:::
+:::

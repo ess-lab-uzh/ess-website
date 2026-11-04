@@ -1,0 +1,12 @@
+---
+title: "Research"
+banner: assets/img/banner/research-tundra-shrubs.jpg
+banner-credit: "© Elena Plekhanova"
+page-layout: full
+---
+
+::: {style="max-width: 1140px; margin: 0 auto 4rem;"}
+
+{{< include projects/_projects.md >}}
+
+:::
