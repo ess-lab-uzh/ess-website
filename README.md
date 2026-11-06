@@ -102,12 +102,20 @@ site goes to `_site/` (not stored in the repository); opening
 `_site/index.html` directly also works for a quick look.
 
 ## Publishing (GitHub)
-Every push to the `main` branch runs `.github/workflows/publish.yml`, which
-builds the site with Quarto and publishes it with GitHub Pages.
-Still to do when the site moves to GitHub: create the repository, push,
-switch on Pages, then point the domain (see the project notes on DNS).
-The workflow publishes to a `gh-pages` branch, which needs a `CNAME` file
-containing `earthsystemscience.org` once the custom domain is set.
+Repository: `ess-lab-uzh/ess-website`. `.github/workflows/publish.yml`
+builds the site with Quarto on every pull request (a check only, nothing is
+published) and on every change to `main`, and publishes only `main` to
+GitHub Pages (Settings → Pages → Source: GitHub Actions).
+
+How changes are made:
+- Proposed changes go on a separate branch and are opened as a pull request.
+- `main` is protected by the ruleset "Protect main": changes only through a
+  pull request, and only organization admins can merge or update it.
+- Publishing is limited to `main` by the `github-pages` environment
+  (Settings → Environments → github-pages → Deployment branches: `main`).
+
+The custom domain (earthsystemscience.org) is set in Settings → Pages; no
+`CNAME` file is needed with this setup.
 
 ## Behind the scenes (no need to edit)
 - `_quarto.yml`: site settings, menu, footer.
@@ -122,9 +130,8 @@ containing `earthsystemscience.org` once the custom domain is set.
 ## Open items
 - [ ] Publications: decide how to store and update them (YAML, Zotero/BibTeX
       export, or automatic ORCID/OpenAlex pull).
-- [ ] Move to GitHub and switch the domain. All files are staged; make the
-      first commit with the GitHub account (personal or lab) the repository
-      will belong to.
+- [ ] Switch the domain to earthsystemscience.org (see the project notes on
+      DNS) and then remove the temporary noindex tag in `_quarto.yml`.
 
 ## Licence
 Website code: MIT (see `LICENSE`), based on Owen Petchey's site.

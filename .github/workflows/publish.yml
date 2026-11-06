@@ -1,19 +1,25 @@
 name: Render and publish site
 
+# Builds the site on every pull request (as a check, nothing is published)
+# and on every change to `main`. Only `main` is published: the deploy job
+# uses the `github-pages` environment, which GitHub restricts to `main`
+# (Settings → Environments → github-pages → Deployment branches).
+
 on:
   push:
     branches: [main]
+  pull_request:
   workflow_dispatch: {}
 
 permissions:
-  contents: write
+  contents: read
 
 concurrency:
-  group: pages
+  group: pages-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
-  build-deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
@@ -25,7 +31,7 @@ jobs:
           r-version: "release"
           use-public-rspm: true
 
-      # If/when posts need extra R packages beyond base R, list them in a
+      # If/when pages need extra R packages beyond base R, list them in a
       # DESCRIPTION file's Imports field and switch this to
       # r-lib/actions/setup-r-dependencies@v2, or add explicit
       # `Rscript -e 'install.packages(c("pkg1","pkg2"))'` lines here.
@@ -35,10 +41,27 @@ jobs:
         with:
           version: "1.7.32"
 
-      - name: Render and publish to GitHub Pages
-        uses: quarto-dev/quarto-actions/publish@v2
+      - name: Render site
+        uses: quarto-dev/quarto-actions/render@v2
+
+      - name: Upload site for publishing
+        if: github.ref == 'refs/heads/main'
+        uses: actions/upload-pages-artifact@v3
         with:
-          target: gh-pages
-          render: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          path: _site
+
+  deploy:
+    # Publishes only builds of `main`.
+    if: github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publish to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
