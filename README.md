@@ -75,8 +75,11 @@ One list item per course: code, name, short description, level and semester.
 Plain text in the matching `.qmd` file.
 
 ### Links
-External links are shown as a small chain icon after the text:
-`[[]{.bi .bi-link-45deg}](https://...){.link-sign}`
+In running text, the words themselves are the link (petrol, underlined),
+followed by a small chain icon. Put the words inside the brackets:
+`[words to click[]{.bi .bi-link-45deg}](https://...){.text-link}`
+Choose a few meaningful words (a name, a title, "PNAS study"), not "here".
+On Home, the link tags under Our Mission use `{.link-item}` instead.
 
 ### Page photos — `assets/img/banner/`
 Every page with `banner:` in its header gets a wide photo with the title

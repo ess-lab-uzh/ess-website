@@ -99,11 +99,9 @@ page-layout: full
 - We combine very different data sources, from vegetation plots to
   drone and satellite images and climate model output.
 - We share our data as openly as possible, following the
-  FAIR principles (Findable, Accessible, Interoperable, Reusable)
-  [[]{.bi .bi-link-45deg}](https://www.gofair.foundation/fair-principles){.link-sign title="FAIR principles"}.
-  One example is the Russian Arctic Vegetation Archive, a database of
-  plant community composition and environmental conditions
-  [[]{.bi .bi-link-45deg}](https://doi.org/10.1111/geb.13724){.link-sign title="Zemlianskii et al. 2023, Global Ecology and Biogeography"}.
+  [FAIR principles[]{.bi .bi-link-45deg}](https://www.gofair.foundation/fair-principles){.text-link} (Findable, Accessible, Interoperable, Reusable).
+  One example is the [Russian Arctic Vegetation Archive[]{.bi .bi-link-45deg}](https://doi.org/10.1111/geb.13724){.text-link}, a database of
+  plant community composition and environmental conditions.
 :::
 
 :::

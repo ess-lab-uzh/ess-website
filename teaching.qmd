@@ -34,7 +34,6 @@ the [Research](research.qmd) page.
 
 :::
 
-Course details, dates and registration are in the UZH course catalogue
-[[]{.bi .bi-link-45deg}](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html){.link-sign title="UZH course catalogue"}.
+Course details, dates and registration are in the [UZH course catalogue[]{.bi .bi-link-45deg}](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html){.text-link}.
 
 :::

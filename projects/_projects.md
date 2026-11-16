@@ -20,7 +20,7 @@
 ```
 
 
-We use ALAN as a proxy for economic activity to understand the possible impacts of industrial activity on ecological processes. Our PNAS study [[]{.bi .bi-link-45deg}](https://www.pnas.org/doi/10.1073/pnas.2322269121){.link-sign title="PNAS"} mapped hotspots and rapid expansion of industrial activity, providing a spatial indicator that connects economic development with ecological processes. Our Communications Earth & Environment study [[]{.bi .bi-link-45deg}](https://www.nature.com/articles/s43247-026-03884-3){.link-sign title="Communications Earth & Environment"} found that Arctic fire occurrence was approximately 2.5 times higher in illuminated areas than in comparable unlit areas, highlighting the importance of human activity alongside climate in understanding Arctic fires.
+We use ALAN as a proxy for economic activity to understand the possible impacts of industrial activity on ecological processes. Our [PNAS study[]{.bi .bi-link-45deg}](https://www.pnas.org/doi/10.1073/pnas.2322269121){.text-link} mapped hotspots and rapid expansion of industrial activity, providing a spatial indicator that connects economic development with ecological processes. Our [Communications Earth & Environment study[]{.bi .bi-link-45deg}](https://www.nature.com/articles/s43247-026-03884-3){.text-link} found that Arctic fire occurrence was approximately 2.5 times higher in illuminated areas than in comparable unlit areas, highlighting the importance of human activity alongside climate in understanding Arctic fires.
 
 ```{=html}
 </div></div></div></div><button type="button" class="project-nav project-prev" aria-label="Previous project">&#8249;</button><button type="button" class="project-nav project-next" aria-label="Next project">&#8250;</button></div>
@@ -31,7 +31,7 @@ We use ALAN as a proxy for economic activity to understand the possible impacts 
 ```
 
 
-The World Biodiversity Forum [[]{.bi .bi-link-45deg}](https://worldbiodiversityforum.org/){.link-sign title="World Biodiversity Forum"} brings together researchers across disciplines and career stages, practitioners and societal actors to explore options and solutions to foster biodiversity in an equitable and just manner.
+The [World Biodiversity Forum[]{.bi .bi-link-45deg}](https://worldbiodiversityforum.org/){.text-link} brings together researchers across disciplines and career stages, practitioners and societal actors to explore options and solutions to foster biodiversity in an equitable and just manner.
 
 **Save the date for the 5th WBF edition in Davos from June 18 – 23, 2028!**
 
@@ -39,9 +39,9 @@ The 4th World Biodiversity Forum took place from June 14 – 19, 2026, under the
 
 Furthering the theme of “Leading Transformation Together”, the plenary keynote presentations centred around accelerating transformative action for biodiversity through science enabling recovery, emphasis on health benefits, artificial intelligence, rights-based governance, Indigenous knowledge and contributions to biodiversity, systems transformation and new perspectives on science-policy interactions. Further, participants engaged in an ArtsxScience programme component.
 
-The full recording of the opening by the Chair, Gabriela Schaepman-Strub, the keynote by Becky Chaplin-Kramer and the opening panel discussion led by Fiona Harvey, Environment Editor at the Guardian, can be viewed here [[]{.bi .bi-link-45deg}](https://youtu.be/rmzXaNkYDPY){.link-sign title="Recording on YouTube"}.
+The [full recording[]{.bi .bi-link-45deg}](https://youtu.be/rmzXaNkYDPY){.text-link} of the opening by the Chair, Gabriela Schaepman-Strub, the keynote by Becky Chaplin-Kramer and the opening panel discussion led by Fiona Harvey, Environment Editor at the Guardian, can be viewed here.
 
-The WBF2026 conference resolution [[]{.bi .bi-link-45deg}](https://zenodo.org/records/20729327){.link-sign title="WBF2026 conference resolution"} highlights the trends and key messages that arose from the collective contributions and discussions. Specifically, it recommends all relevant parties to:
+The [WBF2026 conference resolution[]{.bi .bi-link-45deg}](https://zenodo.org/records/20729327){.text-link} highlights the trends and key messages that arose from the collective contributions and discussions. Specifically, it recommends all relevant parties to:
 
 1. stand for biodiversity and acknowledge Nature’s contributions,
 2. co-create diverse visions for biodiverse futures, and
@@ -58,9 +58,11 @@ The WBF2026 conference resolution [[]{.bi .bi-link-45deg}](https://zenodo.org/re
 
 The Arctic Vegetation Archive (AVA) is a comprehensive data repository for vegetation-plot observations (relevés) and local floras collected across the circumpolar region. Its primary goal is to establish and maintain a unified meta-database to harmonize vegetation data from the Arctic tundra biome.
 
-In collaboration with the AVA team, we are harmonizing thousands of plot records from Alaska, Greenland, Svalbard, and Russia. All plots feature complete vascular plant lists, with the majority also including bryophyte and lichen identifications. We plan to publish these data in open access following [FAIR principles](https://www.gofair.foundation/fair-principles).
+In collaboration with the AVA team, we are harmonizing thousands of plot records from Alaska, Greenland, Svalbard, and Russia. All plots feature complete vascular plant lists, with the majority also including bryophyte and lichen identifications. We plan to publish these data in open access following [FAIR principles[]{.bi .bi-link-45deg}](https://www.gofair.foundation/fair-principles){.text-link}.
 
 The archive provides a critical baseline for modeling current and future vegetation distributions, assessing biodiversity trends, and identifying priority areas for conservation and restoration across the Arctic. We welcome further data contributions to expand its coverage.
+
+See also the [CAFF Flora Group (CFG)[]{.bi .bi-link-45deg}](https://www.caff.is/work/projects/cfg-caffs-flora-group/){.text-link}.
 
 ```{=html}
 </div></div></div></div><button type="button" class="project-nav project-prev" aria-label="Previous project">&#8249;</button><button type="button" class="project-nav project-next" aria-label="Next project">&#8250;</button></div>
@@ -84,6 +86,8 @@ ARTECO combines field observations, remote sensing, and ecosystem modelling to i
 
 Snow and glacier algae darken snow and ice surfaces, accelerating melting and potentially amplifying climate change. Together with our project partners, we investigate how these algae may spread across Greenland under future climate scenarios and how they could affect the Arctic climate. By combining field observations, satellite remote sensing, species distribution modelling and Earth system modelling, we aim to better understand and predict these climate feedbacks.
 
+See our upcoming [ISAR-9 session S10[]{.bi .bi-link-45deg}](https://assw.info/about?view=article&id=953:isar-9-sessions-list&catid=2#Theme2){.text-link}.
+
 ```{=html}
 </div></div></div></div><button type="button" class="project-nav project-prev" aria-label="Previous project">&#8249;</button><button type="button" class="project-nav project-next" aria-label="Next project">&#8250;</button></div>
 ```
@@ -93,9 +97,9 @@ Snow and glacier algae darken snow and ice surfaces, accelerating melting and po
 ```
 
 
-Building on the work of the Circumpolar Arctic Vegetation Science Initiative (CAVSI), we integrate the Arctic Vegetation Archive with other Arctic biodiversity data to support the conservation of Arctic ecosystems and their functions. Arctic lichens, bryophytes, and vascular plants provide vital forage and habitat for wildlife, sustain Indigenous livelihoods, and influence climate and permafrost dynamics through carbon, water, and energy fluxes.
+Building on the work of the [Circumpolar Arctic Vegetation Science Initiative (CAVSI)[]{.bi .bi-link-45deg}](https://www.geobotany.uaf.edu/library/pubs/CAVSI-White-Paper06302025.pdf){.text-link}, we integrate the Arctic Vegetation Archive with other Arctic biodiversity data to support the conservation of Arctic ecosystems and their functions. Arctic lichens, bryophytes, and vascular plants provide vital forage and habitat for wildlife, sustain Indigenous livelihoods, and influence climate and permafrost dynamics through carbon, water, and energy fluxes.
 
-We model species distributions and species richness of lichens, mosses, and vascular plants across the Arctic tundra, combining vegetation plot data with climate and topographic predictors. From these models, we identify biodiversity hotspots, project their changes under future climate scenarios, and compare them with the current network of protected areas to reveal gaps and opportunities for conservation. Crucially, we collaborate with Indigenous communities to ensure they are actively involved in setting conservation priorities. Through these efforts, we aim to support the Global Biodiversity Framework (GBF) 30x30 target across the terrestrial Arctic biome.
+We model [species distributions and species richness[]{.bi .bi-link-45deg}](https://meetingorganizer.copernicus.org/WBF2026/WBF2026-630.html){.text-link} of lichens, mosses, and vascular plants across the Arctic tundra, combining vegetation plot data with climate and topographic predictors. From these models, we identify biodiversity hotspots, project their changes under future climate scenarios, and compare them with the current network of protected areas to reveal gaps and opportunities for conservation. Crucially, we collaborate with Indigenous communities to ensure they are actively involved in setting conservation priorities. Through these efforts, we aim to support the [Global Biodiversity Framework (GBF)[]{.bi .bi-link-45deg}](https://www.cbd.int/gbf){.text-link} 30x30 target across the terrestrial Arctic biome.
 
 ```{=html}
 </div></div></div></div><button type="button" class="project-nav project-prev" aria-label="Previous project">&#8249;</button><button type="button" class="project-nav project-next" aria-label="Next project">&#8250;</button></div>
@@ -107,6 +111,11 @@ We model species distributions and species richness of lichens, mosses, and vasc
 
 
 As human activity in space accelerates, the distinction between Earth and its orbital environment is blurring. Proposals to launch space mirrors that reflect sunlight onto the night side of Earth, alongside plans for more than a million satellites in low Earth orbit, could brighten night skies in ways never seen before. This project examines the environmental, ecological, and cultural impacts of light pollution from space, and works to integrate the rapidly changing near-Earth space environment into Earth system models.
+
+**Additional information**
+
+- [Sunlight on Demand? Rethinking the Promise and Risks of Space Mirrors[]{.bi .bi-link-45deg}](https://www.space.uzh.ch/en/News-/Aktuell/space-mirrors-news-item.html){.text-link} (UZH Space news)
+- [Under a False Moon[]{.bi .bi-link-45deg}](https://collegium.ethz.ch/projects/fellow-year-2025-2026/under-a-false-moon){.text-link} (Collegium Helveticum fellowship project)
 
 ```{=html}
 </div></div></div></div><button type="button" class="project-nav project-prev" aria-label="Previous project">&#8249;</button><button type="button" class="project-nav project-next" aria-label="Next project">&#8250;</button></div>
@@ -130,7 +139,7 @@ This study investigates the temporal effect of muskox carcasses on the Arctic ve
 
 Climate warming is leading to changes in mountain vegetation, including the upward migration of plant species, resulting in mountain greening. We investigate the impact of mountain greening on the alpine flora by combining ground truth data with remote sensing.
 
-To achieve this, we conducted vegetation surveys at elevations above 2000 m asl (to study alpine ecosystems) across the canton of Grisons. The sites were selected based on three distinct greenness categories: always grey, newly green, and always green. To assess the actual greenness state, we also took RGB images in the field.
+Vegetation surveys were conducted at alpine sites above 2000 m a.s.l. across the canton of Grisons. Site selection followed a stratified design based on three greenness categories (always grey, newly green, always green), and field RGB images documented the current greenness state for comparison with the remote-sensing data.
 
 ```{=html}
 </div></div></div></div><button type="button" class="project-nav project-prev" aria-label="Previous project">&#8249;</button><button type="button" class="project-nav project-next" aria-label="Next project">&#8250;</button></div>
@@ -141,7 +150,7 @@ To achieve this, we conducted vegetation surveys at elevations above 2000 m asl 
 ```
 
 
-In collaboration with the Swiss Ornithological Institute in Sempach, we analyse the spatial and temporal variance in Tree Sparrow abundance from the Monitoring of common breeding birds (MHB [[]{.bi .bi-link-45deg}](https://www.vogelwarte.ch/en/projects/monitoring-of-common-breeding-birds/){.link-sign title="Monitoring of common breeding birds"}) and relate it to temperature and agricultural intensification, including increased pesticide input, increased winter cereal cultivation and fewer vertical structures. We use long-term land-use data from Arealstatistik and short-term crop cultivation data for the past five years from BLW (e.g. winter wheat, intensive grassland cultivation).
+In collaboration with the Swiss Ornithological Institute in Sempach, we analyse the spatial and temporal variance in Tree Sparrow abundance from the [Monitoring of common breeding birds[]{.bi .bi-link-45deg}](https://www.vogelwarte.ch/en/projects/monitoring-of-common-breeding-birds/){.text-link} (MHB) and relate it to temperature and agricultural intensification, including increased pesticide input, increased winter cereal cultivation and fewer vertical structures. We use long-term land-use data from Arealstatistik and short-term crop cultivation data for the past five years from BLW (e.g. winter wheat, intensive grassland cultivation).
 
 ```{=html}
 </div></div></div></div><button type="button" class="project-nav project-prev" aria-label="Previous project">&#8249;</button><button type="button" class="project-nav project-next" aria-label="Next project">&#8250;</button></div>
