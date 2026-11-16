@@ -9,3 +9,8 @@ image-credit: "Image: M. Timpe"
 ---
 
 As human activity in space accelerates, the distinction between Earth and its orbital environment is blurring. Proposals to launch space mirrors that reflect sunlight onto the night side of Earth, alongside plans for more than a million satellites in low Earth orbit, could brighten night skies in ways never seen before. This project examines the environmental, ecological, and cultural impacts of light pollution from space, and works to integrate the rapidly changing near-Earth space environment into Earth system models.
+
+**Additional information**
+
+- [Sunlight on Demand? Rethinking the Promise and Risks of Space Mirrors[]{.bi .bi-link-45deg}](https://www.space.uzh.ch/en/News-/Aktuell/space-mirrors-news-item.html){.text-link} (UZH Space news)
+- [Under a False Moon[]{.bi .bi-link-45deg}](https://collegium.ethz.ch/projects/fellow-year-2025-2026/under-a-false-moon){.text-link} (Collegium Helveticum fellowship project)

@@ -252,9 +252,14 @@ a.link-item {
 }
 a.link-item:hover { background: #d7e8ea; border-color: #1b5e6b; }
 a.link-item .bi { margin-left: 0.2rem; }
-/* A chain icon after a phrase, as the link */
-a.link-sign { text-decoration: none; margin-left: 0.1rem; padding: 0 0.15rem; border-radius: 3px; color: #1b5e6b; }
-a.link-sign:hover { background: #d7e8ea; }
+/* Links in running text: the words are the link (petrol, slightly bold,
+   underlined), followed by a small chain icon */
+a.text-link {
+  color: #1b5e6b; font-weight: 500; text-decoration: underline;
+  text-decoration-thickness: 1.5px; text-underline-offset: 0.2em; border-radius: 3px;
+}
+a.text-link:hover { background: #d7e8ea; }
+a.text-link .bi { margin-left: 0.3em; font-size: 0.95em; }
 
 /* ---------------------------------------------------------------------
    Methods & Data: alternating rows, picture beside text
