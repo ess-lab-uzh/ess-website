@@ -28,6 +28,8 @@ banner-credit: "Kytalyk, Siberia © Gabriela Schaepman-Strub"
 
 ### 2026
 
+- [Climate suitability of East Asian mangroves for nature-based solutions is limited by climate extremes](https://doi.org/10.5194/esd-17-1687-2026)
+  [R. Chen et al., *Earth System Dynamics*]{.pub-meta}
 - [Does higher-resolution climate forcing improve impact model performance?](https://doi.org/10.1088/1748-9326/aeb279)
   [J. Malle et al., *Environmental Research Letters*]{.pub-meta}
 - [Geoengineering to save the Arctic?](https://doi.org/10.1525/elementa.2025.00120)
