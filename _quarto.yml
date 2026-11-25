@@ -68,12 +68,6 @@ format:
     html-math-method: plain
     filters:
       - assets/banner.lua
-    # TEMPORARY: keeps search engines away from the test copy at
-    # ess-lab-uzh.github.io. Remove these 3 lines when switching to
-    # earthsystemscience.org.
-    include-in-header:
-      - text: |
-          <meta name="robots" content="noindex, nofollow">
     include-after-body:
       - text: |
           <script src="assets/site.js"></script>
