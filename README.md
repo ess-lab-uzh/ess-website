@@ -118,12 +118,7 @@ How changes are made:
   (Settings → Environments → github-pages → Deployment branches: `main`).
 
 The custom domain (earthsystemscience.org) is set in Settings → Pages; no
-`CNAME` file is needed with this setup. The domain is registered at
-Squarespace; its DNS points to GitHub Pages (since November 2026) and is
-verified for the `ess-lab-uzh` organization. Never turn off Pages, remove
-the custom domain, or delete/rename this repository or the organization
-while the DNS still points to GitHub: someone else could then publish a
-site under the domain. If the site ever moves, change the DNS first.
+`CNAME` file is needed with this setup.
 
 ## Behind the scenes (no need to edit)
 - `_quarto.yml`: site settings, menu, footer.
@@ -134,10 +129,6 @@ site under the domain. If the site ever moves, change the DNS first.
   and pop-ups (`projects/_projects.md`) and the gallery grid
   (`gallery/_photos.md`). Base R only. Can also be run on its own in a
   terminal from this folder: `Rscript scripts/prerender.R`.
-
-## Open items
-- [ ] Publications: decide how to store and update them (YAML, Zotero/BibTeX
-      export, or automatic ORCID/OpenAlex pull).
 
 ## Licence
 Website code: MIT (see `LICENSE`), based on Owen Petchey's site.
