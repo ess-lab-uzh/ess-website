@@ -130,12 +130,6 @@ The custom domain (earthsystemscience.org) is set in Settings → Pages; no
   (`gallery/_photos.md`). Base R only. Can also be run on its own in a
   terminal from this folder: `Rscript scripts/prerender.R`.
 
-## Open items
-- [ ] Publications: decide how to store and update them (YAML, Zotero/BibTeX
-      export, or automatic ORCID/OpenAlex pull).
-- [ ] Switch the domain to earthsystemscience.org (see the project notes on
-      DNS) and then remove the temporary noindex tag in `_quarto.yml`.
-
 ## Licence
 Website code: MIT (see `LICENSE`), based on Owen Petchey's site.
 Photos: © the photographers named in captions. Poppins font: SIL Open Font
